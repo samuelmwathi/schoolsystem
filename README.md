@@ -51,13 +51,13 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://github.com](https://github.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/markmosobo/health-services-system.git
+   git clone https://github.com/markmosobo/schoolsystem.git
    ```
    
    
 3. Install pipenv
    ```sh
-  pip install pipenv
+   pip install pipenv 
    ```
 4. Activate virtual environment
    ```sh
