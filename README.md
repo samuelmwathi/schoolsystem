@@ -53,25 +53,28 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/markmosobo/health-services-system.git
    ```
-2. Install pipenv
+   
+   
+3. Install pipenv
    ```sh
   pip install pipenv
    ```
 4. Activate virtual environment
    ```sh
- pipenv shell
+    pipenv shell
    ```
+   
 5. Intall Django
    ```sh
- pip install Django
+    pip install Django
    ```
 
 6. Run each of these commands 
    ```sh
-  py manage.py makemigrations
+      py manage.py makemigrations
    ```
    ```sh
-py manage.py migrate
+   py manage.py migrate
    ```
    ```sh
    php artisan db:seed
@@ -81,8 +84,12 @@ py manage.py migrate
    py manage.py runserve
    ```  
 8. Login credentials (admin)
+```sh
 username admin
-password 123456  
+```
+```sh
+password 123456 
+```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
