@@ -92,12 +92,5 @@ password 123456
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
 
-<!-- Your Name - [@your_twitter](https://twitter.com/markmosobo) - email@example.com
- -->
-Project Link: [https://github.com/markmosobo/farm-management](https://github.com/markmosobo/health-services-system)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
