@@ -20,10 +20,10 @@
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center"> Larahealth</h3>
+  <h3 align="center"> School Managemnet System</h3>
 
   <p align="center">
-    a web app to automate health records and supplement the manual process used in most small hospitals that involves pen and paper, slowing the            medical service delivery consierably
+    A School management system  to manage lecturers, students, Units,and fees. The system will allow lecturers to upload marks, the student will be allowed to view their fee balances, ther will be able to print transcripts
     <br />
 
   </p>
