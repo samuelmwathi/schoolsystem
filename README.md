@@ -29,14 +29,7 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-Here’s what your completed application will look like:
-![Record_select-area_20220625111724](https://user-images.githubusercontent.com/34887895/175765218-c7578cbd-2050-4124-be2f-1680d3be7a2b.gif)
 
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -101,18 +94,3 @@ Project Link: [https://github.com/markmosobo/farm-management](https://github.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/markmosobo/health-services-system.git.svg?style=for-the-badge
-[contributors-url]: https://github.com/markmosobo/health-services-system/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/markmosobo/health-services-system.svg?style=for-the-badge
-[forks-url]: https://github.com/markmosobo/health-services-system/network/members
-[stars-shield]: https://img.shields.io/github/stars/markmosobo/health-services-system.svg?style=for-the-badge
-[stars-url]: https://github.com/markmosobo/health-services-system/stargazers
-[issues-shield]: https://img.shields.io/github/issues/markmosobo/health-services-system.svg?style=for-the-badge
-[issues-url]: https://github.com/markmosobo/health-services-system/issues
-[license-shield]: https://img.shields.io/github/license/markmosobo/health-services-system.svg?style=for-the-badge
-[license-url]: https://github.com/markmosobo/health-services-system/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/mark-mosobo
-[product-screenshot]: images/screenshot.png -->
